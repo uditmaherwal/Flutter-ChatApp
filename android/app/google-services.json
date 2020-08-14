@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "41287279820",
+    "firebase_url": "https://bhaiop.firebaseio.com",
+    "project_id": "bhaiop",
+    "storage_bucket": "bhaiop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41287279820:android:2c7edb5ce5fefecb5f8e69",
+        "android_client_info": {
+          "package_name": "com.bhaiOp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41287279820-tjuguqmrsgf72ks4al7vm9eokb321gqi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPwEr43zxJdPJr4T4TODApfA1zaiwCSqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41287279820-tjuguqmrsgf72ks4al7vm9eokb321gqi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
