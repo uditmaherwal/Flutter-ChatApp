@@ -165,7 +165,7 @@ class MessageTile extends StatelessWidget {
           style: TextStyle(
             fontSize: 20.0,
             color: Colors.black,
-          ),
+          ),,
         ),
       ),
     );
